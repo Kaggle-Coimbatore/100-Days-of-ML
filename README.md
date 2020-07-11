@@ -51,7 +51,7 @@ Curriculum to grasp the basics of ML in 100 Days designed by [Kaggle Coimbatore]
    
   # Miscellanous
   
-  -[Krish Naik Project Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUcr7osiU7CCm8hcaqSzGw)
+  - [Krish Naik Project Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUcr7osiU7CCm8hcaqSzGw)
   - [Kaggle Competitions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy)
   - [Ayon Roy's Curriculum](https://github.com/ayonroy2000/100DaysOfMLCode/blob/master/Coursework.md)
    

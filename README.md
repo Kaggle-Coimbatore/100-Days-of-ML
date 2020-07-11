@@ -19,8 +19,8 @@ Curriculum to grasp the basics of ML in 100 Days designed by [Kaggle Coimbatore]
    - Week 4 : [Andrew Ng's ML Playlist(Bible)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)  **HighlyRecommended**
    
    
-# Month 3 (DIY)
-   - Week 1 :
+# Month 3 (DIY,Crucial)
+   ## Week 1 :
    ## If you prefer Video Tutorials
    - [Numpy Basics](https://www.youtube.com/watch?v=GB9ByFAIAH4&t=3s)
    - [Matplotlib Basics](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)

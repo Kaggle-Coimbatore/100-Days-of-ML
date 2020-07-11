@@ -59,4 +59,4 @@ Curriculum to grasp the basics of ML in 100 Days designed by [Kaggle Coimbatore]
 # All the Best for your journey ! 
 
 
-   With ♥️ [](Kaggle Coimbatore)
+   With ♥️ [Kaggle Coimbatore]()

@@ -39,14 +39,14 @@ Curriculum to grasp the basics of ML in 100 Days designed by [Kaggle Coimbatore]
    
    
    - Week 2 :
-   -  [DataSchool Sklearn Tutorial](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
-   -  [Sklearn Official Docs](https://scikit-learn.org/)
-   -  [Sklearn FreeCodecamp Playlist](https://www.youtube.com/watch?v=pqNCD_5r0IU)
+    -  [DataSchool Sklearn Tutorial](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+    -  [Sklearn Official Docs](https://scikit-learn.org/)
+    -  [Sklearn FreeCodecamp Playlist](https://www.youtube.com/watch?v=pqNCD_5r0IU)
    
    - Week 3 
-   - [Krish Naik Cricket Prediction](https://www.youtube.com/watch?v=4CtyDxfhoN8)
-   - [Krish Naik Movie Reccomendation](https://www.youtube.com/watch?v=A_78fGgQMjM)
-   - [Titanic Survivor](https://www.youtube.com/watch?v=fS70iptz-XU&t=)
+    - [Krish Naik Cricket Prediction](https://www.youtube.com/watch?v=4CtyDxfhoN8)
+    - [Krish Naik Movie Reccomendation](https://www.youtube.com/watch?v=A_78fGgQMjM)
+    - [Titanic Survivor](https://www.youtube.com/watch?v=fS70iptz-XU&t=)
    
    
   # Miscellanous

@@ -3,7 +3,7 @@ Curriculum to grasp the basics of ML in 100 Days designed by [Kaggle Coimbatore]
 
 # Month 1
      
-   - Week 1 : [Python Tutorials by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+   - Week 1 : [Python Tutorials by Sentdex](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
    - Week 2 : [DataCamp Interactive Data Science Course](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
    - Week 3 : [Tech with Tim's OOPS Concepts](https://www.youtube.com/watch?v=JeznW_7DlB0). 
               [Python Project Tutorial Series](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lMz6bsWzF2tt8K8iZJdLd1)
